@@ -2,11 +2,11 @@
 
 ---
 
-- models
-  -- 1. tarot.dart
-  --- モデルファイル
-  -- 2. tarot_models.dart
-  --- List<Tarot> tarots
+# models
+## 1. tarot.dart
+- モデルファイル
+## 2. tarot_models.dart
+- List<Tarot> tarots
 
 ---
 
